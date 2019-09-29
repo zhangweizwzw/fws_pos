@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/venv/Include/util/logs.py" line="40" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6c19bc-e10d-48b2-993b-92e6168bf75f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_for_login_Login.coverage" NAME="Unittests for login.Login Coverage Results" MODIFIED="1568628215439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$basePage.coverage" NAME="basePage Coverage Results" MODIFIED="1568511518895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/page" />
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_in_selectStation_py.coverage" NAME="Unittests in selectStation.py Coverage Results" MODIFIED="1568636888763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_in_baseCase_py.coverage" NAME="Unittests in baseCase.py Coverage Results" MODIFIED="1568273945248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$selectStationPage.coverage" NAME="selectStationPage Coverage Results" MODIFIED="1568614332089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/page" />
+    <SUITE FILE_PATH="coverage/fws_pos$webdriver.coverage" NAME="webdriver Coverage Results" MODIFIED="1568625233243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote" />
+    <SUITE FILE_PATH="coverage/fws_pos$suite.coverage" NAME="suite Coverage Results" MODIFIED="1568618330584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_for_selectStation_SelectStation.coverage" NAME="Unittests for selectStation.SelectStation Coverage Results" MODIFIED="1568636980532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_for_login_Login_test_login.coverage" NAME="Unittests for login.Login.test_login Coverage Results" MODIFIED="1568515086245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1568635410068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$Unittests_for_selectStation_SelectStation_test_selectStation.coverage" NAME="Unittests for selectStation.SelectStation.test_selectStation Coverage Results" MODIFIED="1568636754756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/case" />
+    <SUITE FILE_PATH="coverage/fws_pos$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1568517052283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/util" />
+    <SUITE FILE_PATH="coverage/fws_pos$errorhandler.coverage" NAME="errorhandler Coverage Results" MODIFIED="1568626787650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1115182718">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/page/loginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/case/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Include/case/selectStation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/page/basePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/case/baseCase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/page/selectStationPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+      <find>log_path</find>
+      <find>logger_name</find>
+      <find>btn_add_oil</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Include/util/application.py" />
+        <option value="$PROJECT_DIR$/venv/Include/util/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/venv/Include/util/sendEmail.py" />
+        <option value="$PROJECT_DIR$/venv/Include/util/logs.py" />
+        <option value="$PROJECT_DIR$/venv/Include/page/loginPage.py" />
+        <option value="$PROJECT_DIR$/venv/Include/case/suite.py" />
+        <option value="$PROJECT_DIR$/venv/Include/util/app.py" />
+        <option value="$PROJECT_DIR$/venv/Include/page/basePage.py" />
+        <option value="$PROJECT_DIR$/venv/Include/util/getDriver.py" />
+        <option value="$PROJECT_DIR$/venv/Include/page/selectStationPage.py" />
+        <option value="$PROJECT_DIR$/venv/Include/case/login.py" />
+        <option value="$PROJECT_DIR$/venv/Include/case/baseCase.py" />
+        <option value="$PROJECT_DIR$/venv/Include/report/2019-09-16 20-29-40_log.log" />
+        <option value="$PROJECT_DIR$/venv/Include/case/selectStation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2563" />
+    <option name="y" value="197" />
+    <option name="width" value="2420" />
+    <option name="height" value="1307" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="fws_pos" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fws_pos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fws_pos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm_workspace\fws_pos\venv\Include\util" />
+      <recent name="E:\pycharm_workspace\fws_pos\venv\Include\case" />
+      <recent name="E:\pycharm_workspace\fws_pos\venv\Include\page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for selectStation.SelectStation">
+    <configuration name="Unittests for login.Login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fws_pos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.Login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for selectStation.SelectStation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fws_pos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;selectStation.SelectStation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for selectStation.SelectStation.test_selectStation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fws_pos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;selectStation.SelectStation.test_selectStation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fws_pos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/venv/Include/case/login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in selectStation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="fws_pos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/venv/Include/case/selectStation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for login.Login" />
+      <item itemvalue="Python tests.Unittests for selectStation.SelectStation" />
+      <item itemvalue="Python tests.Unittests for selectStation.SelectStation.test_selectStation" />
+      <item itemvalue="Python tests.Unittests in selectStation.py" />
+      <item itemvalue="Python tests.Unittests in login.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for selectStation.SelectStation" />
+        <item itemvalue="Python tests.Unittests in selectStation.py" />
+        <item itemvalue="Python tests.Unittests for selectStation.SelectStation.test_selectStation" />
+        <item itemvalue="Python tests.Unittests in login.py" />
+        <item itemvalue="Python tests.Unittests for login.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6c19bc-e10d-48b2-993b-92e6168bf75f" name="Default Changelist" comment="" />
+      <created>1567757528738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567757528738</updated>
+      <workItem from="1568293078189" duration="392000" />
+      <workItem from="1568340373059" duration="2953000" />
+      <workItem from="1568511307446" duration="7488000" />
+      <workItem from="1568635306675" duration="2295000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加testSuite和sendEmail功能">
+      <created>1568516897751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568516897752</updated>
+    </task>
+    <task id="LOCAL-00002" summary="发送邮件优化">
+      <created>1568518292021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568518292021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_login_py - 2019.09.16 at 20h 04m 07s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 05m 18s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 10m 43s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 11m 12s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 12m 22s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 22m 18s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 23m 28s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation_test_selectStation - 2019.09.16 at 20h 25m 58s.xml">
+      <configuration name="Unittests for selectStation.SelectStation.test_selectStation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_selectStation_py - 2019.09.16 at 20h 28m 12s.xml">
+      <configuration name="Unittests in selectStation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_selectStation_SelectStation - 2019.09.16 at 20h 29m 44s.xml">
+      <configuration name="Unittests for selectStation.SelectStation" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13128000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1927" y="199" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34919572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3526912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.22978723" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32765958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加testSuite和sendEmail功能" />
+    <MESSAGE value="发送邮件优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="发送邮件优化" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-30-01_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-32-55_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-33-33_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-34-09_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-35-56_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-38-21_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-44-13_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-46-01_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 10-50-26_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-00-52_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-05-33_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-18-07_log.log" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/support/wait.py" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-27-01_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-44-37_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-46-14_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 14-48-04_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/case/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 15-18-51_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 15-25-58_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 15-32-21_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 17-01-04_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 17-03-10_log.log" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/unittest/case.py" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/appium/webdriver/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 17-13-59_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/util/logs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 17-33-54_log.log" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/appium/webdriver/webelement.py" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/webelement.py" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/appium/webdriver/errorhandler.py" />
+    <entry file="file://D:/Programs/Python/Python36-32/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 18-07-02_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 18-07-22_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 18-14-37_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/util/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/util/getDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 20-05-14_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 20-10-40_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 20-25-55_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 20-23-24_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 20-22-14_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/report/2019-09-16 20-29-40_log.log" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/case/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/page/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/case/baseCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/page/selectStationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/case/selectStation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
